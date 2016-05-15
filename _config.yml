@@ -1,0 +1,28 @@
+name: Brien McCrea
+favicon: null
+layout_spectrum: 0.5740289008244872
+typography_spectrum: 0.5898802343290299
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5909662044141442
+  lightness: 0.1285584440920502
+  saturation: 0.014603107003495097
+  rhythmicContrast: 0.321355773601681
+purpose: []
